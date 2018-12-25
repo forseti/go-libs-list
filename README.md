@@ -1,2 +1,20 @@
-# go-libs-list
-A list of Go's Libraries I like to use
+# go-resources-list
+A list of Go's Resource
+
+## Libraries
+
+### Databases
+
+### Utilities
+
+### Web
+
+### Security
+
+### Testing
+
+## References
+
+### Blogs
+
+### Videos
